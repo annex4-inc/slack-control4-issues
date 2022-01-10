@@ -3,7 +3,7 @@ This repository is used to track, report, and resolve issues related to our Slac
 
 ## Format
 Please include the following information when submitting an issue:
-- Description of Issue:
-- Steps to Reproduce:
-- Actual Result:
-- Expected Result:
+- Description of Issue
+- Steps to Reproduce
+- Actual Result
+- Expected Result
